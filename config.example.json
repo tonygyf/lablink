@@ -1,0 +1,11 @@
+{
+  "host": "",
+  "user": "",
+  "ssh_port": 22,
+  "identity_file": "",
+  "vnc_port": 5900,
+  "vnc_viewer": "",
+  "panel_port": 0,
+  "panel_scheme": "http",
+  "panel_path": "/"
+}
